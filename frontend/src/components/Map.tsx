@@ -40,7 +40,7 @@ const createCarIcon = () => {
 const createCheckpointIcon = () => {
   try {
     return L.icon({
-      iconUrl: "https://project-police-cctv2.vercel.app/checkpoint.png",
+      iconUrl: "https://project-police-cctv.vercel.app/checkpoint.png",
       iconSize: [51, 51],
       iconAnchor: [25.5, 51],
       popupAnchor: [0, -51],
